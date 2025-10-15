@@ -10,4 +10,4 @@ In 3D Print Folder there is a variety of projects made on my personal printer of
 ### Printer:
 <li>Ender 3 V2 Pro</li>
 
-![]()
+![](LowerSideView.jpg)
